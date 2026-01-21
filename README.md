@@ -91,7 +91,7 @@ Discount_flyer_Combiner/
 3. Frontend (React)
    - Fetches API data
    - Renders results to user
-  
+  ```
 React Frontend
       ||
       ||
@@ -101,26 +101,30 @@ Express Backend
       ||
       \/
 PostgreSQL  <----- Python Scraper (collects & normalises data)
-
+```
 ### Running Locally
 
 All dependencies must be installed before running the program.
 
 Steps to running Python scrapers:
-1. cd Flyer_reader
-2. pip install -r requirements.txt
+```
+cd Flyer_reader
+pip install -r requirements.txt
+```
 
 Steps to running backend:
-1. cd Discount_Combiner_backend
-2. npm install
-3. node index.js
+```
+cd Discount_Combiner_backend
+npm install
+node index.js
+```
 
 Steps to running frontend:
-1. cd discount_combiner_frontend
-2. npm install
-3. npm run dev
-
-
+```
+cd discount_combiner_frontend
+npm install
+npm run dev
+```
 
 ### Future Improvements
 The current version of this project is an MVP (Minimum Viable product), hence not ready for
