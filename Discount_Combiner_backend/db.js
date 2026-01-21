@@ -1,14 +1,14 @@
 const { Pool, types } = require('pg');
-require('dotenv').config();
+const path = require('path');
+require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
 
 types.setTypeParser(1082, (val) => val);
 
-// Create a pool of connections to PostgreSQL
 const pool = new Pool({
     user: "postgres",
     host: "localhost",
-    "database": "grocery_discounts",
-    password: process.env.PostGreSQL_password,
+    database: "grocery_discounts",
+    password: process.env.POSTGRESQL_PASSWORD,
     port: 5432,
 });
 

@@ -8,7 +8,11 @@ from maxima_flyer_reader import scrape_maxima_offers
 from rimi_flyer_reader import scrape_rimi_offers
 from dotenv import load_dotenv
 import os
+from pathlib import Path
 
+
+dotenv_path = Path(__file__).resolve().parent.parent / ".env"
+load_dotenv(dotenv_path)
 
 # --------------------- DB helper functions ---------------------
 def scrape_date_check(shop, cur):
@@ -125,7 +129,7 @@ def converter(names, cur, conn):
 # --------------------- Main runner ---------------------
 def run_scrapers_and_update_db():
     # Connect to DB
-    conn = psycopg2.connect(f'dbname=grocery_discounts user=postgres password={os.getenv("PostGreSQL_password")}')
+    conn = psycopg2.connect(f'dbname=grocery_discounts user=postgres password={os.getenv("POSTGRESQL_PASSWORD")}')
     cur = conn.cursor()
 
     shop_list = {
@@ -152,5 +156,4 @@ def run_scrapers_and_update_db():
 
 # --------------------- Entry point ---------------------
 if __name__ == "__main__":
-    load_dotenv()
     run_scrapers_and_update_db()
