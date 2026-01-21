@@ -1,0 +1,522 @@
+shop,title,price,old_price,discount,date_start,date_end,additional_info,img
+maxima,"Slyviniai pomidorai, 1 kg",2.29,3.49,-34%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f02352e.png
+maxima,"Avokadas HASS, 1 vnt.",0.65,0.99,-34%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f04927a.png
+maxima,"Dideli apelsinai, 1 kg",1.49,2.29,-34%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75efe8ef1.png
+maxima,"Raudonieji ridikėliai ryšulėlyje, fasuoti, 1 vnt.",0.79,0.99,-20%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75efc1764.png
+maxima,"Brokolis, 1 vnt.",1.39,1.99,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f06f178.png
+maxima,"Šilauogės, fasuotos, 500 g",4.99,7.99,-37%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e808815.png
+maxima,"Žaliosios besėklės vynuogės, 1 kg",3.79,4.99,-24%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e82a46a.png
+maxima,"Raudonosios besėklės vynuogės, fasuotos, 500 g",2.39,3.49,-31%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e79c882.png
+maxima,"Mandarinai, 1 kg",1.69,2.49,-32%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e7dd685.png
+maxima,"Didieji greipfrutai POMELO, 1 kg",0.59,1.19,-50%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e86daf3.png
+maxima,"Didžiosios kriaušės CONFERENCE, 1 kg",1.59,2.49,-36%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e77b254.png
+maxima,"Obuoliai CHAMPION, fasuoti, 1 kg",0.79,1.49,-46%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e736d49.png
+maxima,"Smulkiavaisiai pomidorai SUNSTREAM WELL DONE, fasuoti, 300 g",2.45,3.19,-23%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75eb73ddb.png
+maxima,"Žalioji cukinija, 1 vnt.",0.99,1.39,-28%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ec59820.png
+maxima,"Mažos bulvės WARNEZ, fasuotos, 1 kg",1.99,2.99,-33%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ebde147.png
+maxima,"Lietuviški lupti virti burokėliai LINKĖJIMAI IŠ KAIMO, vakuumuoti, 500 g",0.65,0.89,-26%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75eb478c7.png
+maxima,"Salotų mišinys WELL DONE, 2 rūšių, 150 g",1.09,1.69,-35%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75eb960b8.png
+maxima,"Šviežias kiaulienos kumpis be kaulo ir odos, vakuumuotas, 1 kg",3.29,4.49,-26%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dbf1bdd.png
+maxima,UTENOS MĖSOS GIMINIŲ linijai*,,,-50%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d888bcd.png
+maxima,"Šviežios viščiukų broilerių blauzdelės WELL DONE, 500 g",1.99,2.29,-13%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dbdb73c.png
+maxima,"Švieži kiaulienos sprandinės pjausniai WELL DONE*, 360 g",2.79,3.29,-15%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dbc422c.png
+maxima,"Sausai marinuoti MEKSIKIETIŠKI kiaulienos sprand. kepsneliai BIOVELA*, 400 g",4.49,6.49,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75db7b10b.png
+maxima,"Šviežias kalakutienos faršas WELL DONE*, 400 g",2.59,2.89,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75dc3032c.png
+maxima,"Brandintos jautienos maltiniai mėsainiams WELL DONE*, 220 g",2.69,2.99,-10%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75dc486a1.png
+maxima,"Brandintas jautienos kumpio kepsnys WELL DONE*, brandintas 21 d., 220 g",5.49,6.49,-15%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d60c19e.png
+maxima,"Jautienos kebabų iešmeliai WELL DONE*, 260 g",2.99,3.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d6778cf.png
+maxima,"Švieži vištienos filė gabaliukai WELL DONE*, 400 g",2.99,3.59,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d651dba.png
+maxima,"Švieži viščiukų broil. sparn. peteliai WELL DONE, užauginta be antib.*, 500 g",2.49,3.29,-24%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d5ae587.png
+maxima,"Šviežia plonai pjaustyta kiaulienos šoninė WELL DONE*, 300 g",2.29,2.99,-23%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d663959.png
+maxima,"Marinuoti kiaulienos šoninės pjausniai su pipirais*, sveriami, 1 kg",4.99,7.99,-37%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d5ebcee.png
+maxima,"Kiauliena su raudonojo vyno acto marinatu WELL DONE*, fasuota, 1 kg",6.99,9.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d63d188.png
+maxima,"VILNIAUS PAUKŠTYNO viščiukų sparnelių peteliai; vid. dalys PREMIUM*, 3 rūšių, 500 g",3.79,4.49,-15%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d5c2cce.png
+maxima,"Lėtai virti marinuoti KREKENAVOS GRILL kiaulienos šonkauliai*, fasuoti, 1 kg",8.49,15.49,-45%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e34ab25.png
+maxima,"Virtos mažosios sardelės WELL DONE*, a. r., 450 g",2.79,3.49,-20%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d89be1d.png
+maxima,MAŽEIKIŲ MĖSINĖS virtiems ir keptiems gaminiams*,,,-25%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d7d6e3f.png
+maxima,"Karštai rūkytas SAMSONO servelatas*, a. r., 2 vnt. × 220 g",3.99,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d85f016.png
+maxima,Pjaustytiems kumpiams BIOVELA*,,,-25%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d8212cd.png
+maxima,"KREKENAVOS vytinta MINDAUGO dešra*, a. r., 2 vnt. × 200 g",5.29,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d84b966.png
+maxima,ROKIŠKIO MĖSINĖS šaltai rūkytiems ir vytintiems gaminiams*,,,-25%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d835d9c.png
+maxima,"VILNIAUS PAUKŠTYNO keptas vištienos kumpelis ČYZAS PREMIUM*, 2 rūšių, a. r., 400 g",3.49,4.99,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d7ec6c8.png
+maxima,Ispaniškiems pjaustytiems mėsos gaminiams ir FUET dešroms WELL DONE*,,,-20%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d5d7994.png
+maxima,VILNIAUS PAUKŠTYNO BE ANTIBIOTIKŲ linijos mėsos gaminiams*,,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d6269ca.png
+maxima,"Virtos rūkytos kiaulių ausys WELL DONE*, nerūš., 2 pak. × 200 g",2.79,,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e15447e.png
+maxima,"Kepti vištienos filė kubeliai su prieskoniais VILNIAUS PAUKŠTYNAS*, 250 g",3.99,5.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddac86f10.png
+maxima,"Mažai rūkyta PREMIUM kalakuto krūtinėlė ARVI*, a. r., fasuota, 1 kg",16.99,20.59,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695e392ef0256.png
+maxima,"Karštai rūkyta kalakutų krūtinėlių filė ARVI*, 2 rūšių, a. r., fasuota, 1 kg",14.99,18.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddac357e8.png
+maxima,"Sterilizuotas paštetas BIOVELA*, 2 rūšių, a. r., 150 g",1.29,2.29,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddacae34e.png
+maxima,"Vytinta jautiena THE MEAT MAKERS*, a. r., 40 g",2.19,3.69,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/696f3e37080db.png
+maxima,"Virtos DARŽO dešrelės BIOVELA*, 2 rūšių, nerūš., 240 g",1.99,3.69,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddace7d25.png
+maxima,"Švieži viščiukų broilerių filė gabaliukai VILNIAUS PAUKŠTYNAS*, 500 g",3.49,5.49,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddaf0f967.png
+maxima,"Šviežios triušienos juostelės LAPINO PUOTA*, 200 g",3.49,5.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddaf84a34.png
+maxima,"Sausai brandintas jautienos kumpis EKO MEMEL ANGUS*, brandintas 30 d., fasuotas, 1 kg",21.49,26.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddaf98305.png
+maxima,"Šviežias vištienos faršas VILNIAUS PAUKŠTYNAS*, 2 rūšių, rieb. ne daugiau 15 %, 400 g",1.99,2.99,-33%,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695f802371430.png
+maxima,"Lėtai virti šonkauliai su klevų sirupu GRYNUOLIAI*, 600 g",4.99,9.99,-50%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc0d57cf.png
+maxima,"Šviežia pjaustyta kiaulienos nugarinė WELL DONE*, 360 g",2.29,3.29,-30%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc15e3b4.png
+maxima,"BIOVELOS vytinta BERNŲ dešra*, a. r., 200 g",3.24,6.49,-50%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc208baf.png
+maxima,Virtoms SAMSONIUKŲ dešroms ir dešrelėms*,,,-40%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695e6cc2c75e2.png
+maxima,Pjaustytiems itališkiems mėsos gaminiams CASA AZZURRA*,,,-25%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695e6cc24bdd4.png
+maxima,"Pjaustyta karštai rūkyta kiaulienos filė su kmynais BIOVELA*, I r., 90 g",1.09,2.19,-50%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc25f7a3.png
+maxima,"Natūrali DVARO grietinė*, 30 % rieb., 500 g",2.19,3.19,-31%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e0b396e.png
+maxima,"Grūdėta varškė PIENO ŽVAIGŽDĖS*, 7 rūšių, 7 % rieb., 2 ind. × 150 g",2.99,,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e759f33.png
+maxima,"Glaistytas varškės sūrelis KARUMS*, 14 rūšių, 22,5–23,5 % rieb., 3 vnt. × 45 g",1.29,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e84c0c4.png
+maxima,"Saldžios grietinėlės ROKIŠKIO sviestas*, 82 % rieb., 200 g",1.69,2.79,-39%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e0426ae.png
+maxima,"Pusriebė ROKIŠKIO NAMINĖ varškė*, 9 % rieb., vakuumuota, 1 kg",4.99,7.59,-34%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dfe324f.png
+maxima,"ROKIŠKIO NAMINIS pienas*, 3,5 % rieb., 1 l",1.55,1.75,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e008de5.png
+maxima,"Natūralus ŽEMAITIJOS kefyras*, 2,5 % rieb., 900 g",1.39,1.59,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e05fd58.png
+maxima,"Augalinis gėrimas VALSOIA*, 3 rūšių, 1 l",2.29,2.89,-20%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e0279f6.png
+maxima,"ROKIŠKIO NAMINĖ grietinėlė*, 35 % rieb., 200 ml",1.39,1.55,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e097020.png
+maxima,"Maskarponės sūris WELL DONE ITALY*, 80 % rieb. s. m., 250 g",1.99,2.89,-31%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e0d6ae8.png
+maxima,"Pusriebė DVARO varškė*, 9 % rieb., 180 g",1.45,1.65,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dfc7e59.png
+maxima,"Fermentinis ROKIŠKIO NAMINIS sūris*, 45 % rieb. s. m., 240 g",2.69,2.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e07af8f.png
+maxima,"Puskietis fermentinis DVARO sūris riekelėmis*, 50 % rieb. s. m., 150 g",2.15,2.39,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e949193.png
+maxima,"Kietasis sūris WELL DONE*, 37 % rieb. s. m., brandintas 18 mėn., 180 g",2.69,2.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e9aa554.png
+maxima,"Majonezas HELLMANN’S ORIGINAL*, 76 % rieb., 625 ml",3.99,5.79,-31%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e96acb2.png
+maxima,"Ant kraiko laikomų vištų kiaušiniai WELL DONE*, M dydis, A klasė, 1 dėž. (10 vnt.)",2.19,2.45,-10%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e98a92e.png
+maxima,"Natūrali sojų varškė LUNTER*, 180 g",0.79,0.89,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e928de8.png
+maxima,"Sūris MOOSBACHER*, 40 % rieb. s. m., sveriamas, 1 kg",16.99,19.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e90653d.png
+maxima,"Pelėsinis sūris VILVI MEMEL BLUE*, 50 % rieb. s. m., 100 g",1.79,2.35,-23%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e8b83a8.png
+maxima,"Kepti sūrio gabaliukai JON-CHEDAR*, 3 rūšių, 42–43 % rieb. s. m., 2 pak. × 80 g",2.29,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e9cc23a.png
+maxima,"Lydytas RAMBYNO tepamasis sūrelis*, 3 rūšių, 50 % rieb. s. m., 175 g",1.79,1.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e898669.png
+maxima,"Paprikos, įdarytos sūriu WELL DONE*, 2 rūšių, 49–59 % rieb., 150 g",1.99,2.59,-23%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e8d9a84.png
+maxima,"Valgomasis VILKYŠKIŲ jogurtas*, 3 rūšių, 3,6 % rieb., 350 g",1.19,1.35,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e118d17.png
+maxima,"Geriamasis VILKYŠKIŲ jogurtas*, 3 rūšių, 2 % rieb., 750 g",1.69,1.89,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e0f1c8e.png
+maxima,"Geriamasis ROKIŠKIO jogurtas BIFI*, 3 rūšių, 2 % rieb., 900 g",1.95,2.19,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d50e468.png
+maxima,"Fermentuotas jogurto gėrimas ACTIMEL*, 1,5 % rieb., 1 pak. (4 but. × 100 g)",1.99,2.49,-20%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d59b9da.png
+maxima,"Varškės sūrelis WELL DONE*, 3 rūšių, 7,2–7,9 % rieb., 2 vnt. × 100 g",1.39,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d521250.png
+maxima,"Glaistytas desertas MIO & RIO*, 6 rūšių, 23 % rieb., 3 vnt. × 35 g",0.59,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ed93be5.png
+maxima,"Glaistytas varškės sūrelis su kolagenu WELL DONE*, 3 rūšių, 14,2–14,4 % rieb., 40 g",0.39,0.55,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddaf58397.png
+maxima,"Grūdėta varškė PIENO ŽVAIGŽDĖS*, 7 % rieb., 350 g",2.19,2.89,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddaf401a0.png
+maxima,"Varškė GRAIKIŠKA AMFORA*, 3 rūšių, 0,8 % rieb., 200 g",1.19,1.65,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddaf29921.png
+maxima,Ekologiškiems pieno produktams AUGA*,,,-20%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddaed822d.png
+maxima,Produkcijai ALPRO*,,,-30%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddaeee4b7.png
+maxima,"Valgomasis jogurtas be laktozės WELL DONE*, 2,5 % rieb., 400 g",1.29,1.59,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddafdf05e.png
+maxima,"Pasterizuotas pienas be laktozės WELL DONE*, 2,5 % rieb., 1 l",1.15,1.35,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddafb2d0b.png
+maxima,"Varškė be laktozės WELL DONE*, 9 % rieb., 180 g",1.29,1.55,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb0a5720.png
+maxima,"UAT pienas be laktozės WELL DONE*, 3,2 % rieb., 1 l",0.99,1.25,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb124753.png
+maxima,"Sviestas be laktozės WELL DONE*, 82 % rieb., 200 g",2.19,2.49,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb153c55.png
+maxima,"Pieno gėrimas MULLERMILCH PROTEIN*, 2 rūšių, 1,5 % rieb., 400 g",1.89,2.69,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb0bb9bf.png
+maxima,Pieno produktams VALIO PROFEEL*,,,-20%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb0d11c8.png
+maxima,"Baltyminis kefyro gėrimas GRAIKIŠKA AMFORA*, 2 % rieb., 500 g",1.59,1.85,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb10d452.png
+maxima,"Baltyminis kefyro gėrimas GRAIKIŠKA AMFORA*, 2 rūšių, 1,8 % rieb., 500 g",1.65,1.95,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb18296e.png
+maxima,"Fermentuotas jogurto gėrimas ACTIMEL*, 1,4 % rieb., 1 pak. (14 but. × 100 g)",4.99,6.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb13c3b3.png
+maxima,"Jogurtas iš A2 pieno*, 3 rūšių, 2,1–2,5 % rieb., 180 g",1.29,1.49,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb16b652.png
+maxima,"Fetos sūris WELL DONE*, SKVN, 43 % rieb. s. m., 150 g",1.49,1.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb0e9e46.png
+maxima,"Pelėsinis sūris be laktozės TUREK CAMEMBERT*, 44 % rieb. s. m., 120 g",1.79,1.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb5b4391.png
+maxima,"Kamamberas TUREK BBQ, skirtas kepti*, 46 % rieb. s. m., 120 g",1.99,2.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb4b67a3.png
+maxima,"Gaudos sūris riekelėmis WELL DONE*, 48 % rieb. s. m., 150 g",1.49,1.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb56693e.png
+maxima,"Fermentinis ROKIŠKIO sūris LIGHT riekelėmis*, 15 % rieb. s. m., 150 g",1.59,2.25,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb5141a9.png
+maxima,"Fermentinis ROKIŠKIO sūris LIGHT*, 15 % rieb. s. m., 200 g",1.99,2.85,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb52d311.png
+maxima,"S. JASINEVIČIAUS varškės sūris*, 15 % rieb. s. m., sveriamas, 1 kg",11.99,13.39,-10%,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb4d46ea.png
+maxima,"S. JASINEVIČIAUS saldaus pieno sūris*, 2 rūšių, 22 % rieb. s. m., sveriamas, 1 kg",12.39,13.89,-10%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb54baa4.png
+maxima,"S. JASINEVIČIAUS keptas saldaus pieno sūris*, 25 % rieb. s. m., sveriamas, 1 kg",13.09,14.59,-10%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb59ab91.png
+maxima,"Tepamasis sūris PHILADELPHIA be laktozės*, 21 % rieb. s. m., 150 g",2.69,3.69,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb4ec5df.png
+maxima,"Tepamasis sūris PHILADELPHIA LIGHT*, 11 % rieb. s. m., 125 g",1.99,2.65,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb57fa1e.png
+maxima,"Ekologiški tepamieji riebalai NATURLI’ VEGAN BLOCK*, 200 g",2.49,2.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddbc78ff0.png
+maxima,"Sojų gabalėliai MEDITERRAN PROTEIN BITES*, 180 g",2.99,3.89,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddbd46a5e.png
+maxima,"Minkštas natūralus tofu HIGH PROTEIN WELL WELL*, 400 g",2.29,2.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbd21757.png
+maxima,"Natūralus tofu HIGH PROTEIN WELL WELL*, 400 g",2.29,2.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbcb80c7.png
+maxima,"ZANAVYKŲ; LIETUVIŠKAS; LUKŠIŲ varškės sūris*, 3 rūšių, 22 % rieb. s. m., 230–250 g",2.99,4.49,-33%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc19a38b.png
+maxima,"Sūrio lazdelės MIAU, 40 % rieb. s. m., 100 g",1.55,2.59,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc1eab7e.png
+maxima,"Pieno gėrimas MIAU*, 3 rūšių, 2,3–2,6 % rieb., 450 ml",1.19,1.75,-32%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc14ad44.png
+maxima,"Tarkuotas sūris DŽIUGAS MIX*, 3 rūšių, 40–43 % rieb. s. m., 200 g",1.99,3.09,-35%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc1c2530.png
+maxima,"Valgomasis ROKIŠKIO BIFI jogurtas*, 3 rūšių, 6 % rieb., 200 g",1.09,1.45,-24%,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/6965fcaf87618.png
+maxima,"Šviežia atlantinių lašišų filė su oda*, 1 kg",12.99,17.99,-27%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e2a5554.png
+maxima,"Atšildytos nevirtos baltakojės blyškiosios krevetės be galvų*, 1 kg",12.99,19.99,-35%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e2c2d28.png
+maxima,"Šviežių afrikinių šamų plėšikų filė su oda WELL DONE*, fasuota, 320 g",3.99,5.49,-27%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e2deaca.png
+maxima,"Švieži karpių pjausniai*, 1 kg",9.49,11.99,-20%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e26b9ea.png
+maxima,"Šviežia atlantinių lašišų filė WELL DONE*, fasuota, 250 g",6.29,7.49,-16%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e2319ba.png
+maxima,"Silkių filė ZIGMAS MATES*, 2 rūšių, 190–240 g",1.99,2.79,-28%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e3272d5.png
+maxima,"SKANDINAVIŠKA; GURMANIŠKA silkių filė be aliejaus EDEGA*, 2 rūšių, 300 g",2.19,2.69,-18%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e2886f8.png
+maxima,"Silkių filė gabaliukai SKANDINAVIŠKA; LIETUVIŠKA; ESTIŠKA NORVELITA*, 3 rūšių, 210 g",1.39,1.79,-22%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e24f790.png
+maxima,"Atšaldytos krabų skonio lazdelės iš surimio PORT LITE*, 300 g",1.89,2.69,-29%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e309e35.png
+maxima,"Šaltai rūkyta; sūdyta lašišų filė su oda ZIGMAS*, 2 rūšių, 160 g",3.99,5.69,-29%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75de925ce.png
+maxima,"KAKĖ MAKĖ sūdyta lašišos filė ZIGMAS*, 100 g",3.29,4.19,-21%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e384641.png
+maxima,"Tunai saulėgrąžų aliejuje; savo sultyse JOHN WEST*, 2 rūšių, 160 g",2.49,3.59,-30%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e40c72d.png
+maxima,"Vaivorykštinių upėtakių ikrai WELL DONE*, 200 g",10.99,18.99,-42%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e42aa88.png
+maxima,"Azijietiška; graikiška; itališka kepta žuvis SEKO*, 3 rūšių, 500 g",2.79,3.49,-20%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e3a24a7.png
+maxima,"Bandelė VARŠKINĖ SRAIGĖ*, 3 vnt. × 60 g",0.99,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ebb9463.png
+maxima,"Juoda duona su kmynais*, 490 g, 1 vnt.",0.99,1.19,-16%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ec11e05.png
+maxima,"KASDIENĖ tamsi; šviesi čiabata*, 2 rūšių, 280 g, 1 vnt.",0.89,0.99,-10%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75eb242fc.png
+maxima,"Kruasanas su kumpiu ir sūriu*, 2 vnt. × 96 g",1.29,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d6e3034.png
+maxima,"Spurga su vaisių įdaru (atitirpinta)*, 3 vnt. × 65 g",0.99,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d757ac5.png
+maxima,"Pyragėlis su varškės ir špinatų įdaru*, 86 g, 1 vnt.",0.59,0.79,-25%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d731bbf.png
+maxima,"Pyragėlis MARCIPANINIS SUKUTIS*, 2 vnt. × 65 g",0.99,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d6ba024.png
+maxima,"Šokoladinis; citrininis; karamelinis pyragas JANCZEWSCY*, 3 rūšių, fasuotas, 375–400 g",2.69,2.99,-10%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d71a894.png
+maxima,"Spurga DONUT SKINNY WITCH su mėlynių įdaru (atitirpinta)*, 66 g, 1 vnt.",0.49,0.79,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/69688a97823ed.png
+maxima,"Pyragėlis su klevų sirupu ir karijomis*, 2 vnt. × 81 g",0.89,,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc10affc.png
+maxima,"Raikytas PIENIŠKAS batonas LIETUVOS KEPĖJAS*, 330 g",0.59,0.85,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d6cec29.png
+maxima,"Raikyta GARDĖSIO SUMUŠTINIŲ duona*, 2 rūšių, 240–500 g",1.29,1.59,-18%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d69c326.png
+maxima,"Raikyta kvietinė VILNIAUS DUONA GOJA*, 500 g",1.49,1.89,-21%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d68b64d.png
+maxima,"Raikyta plikyta KLAIPĖDOS duona*, 800 g",1.59,1.99,-20%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d707f37.png
+maxima,"Raikyta juoda MOČIUTĖS; RUGELIS VILNIAUS DUONA*, 2 rūšių, 350–450 g",1.59,1.99,-20%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d744a6a.png
+maxima,"Raikyta ekologiška visų grūdo dalių ruginė duona TREJOS GIRNOS*, 400 g",1.59,1.89,-15%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dc60291.png
+maxima,"Rankų darbo itališka čiabata su mažai cukrų*, 300 g, 1 vnt.",0.99,1.19,-16%,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddabe24d3.png
+maxima,"Raikyta skrudinamoji duona TOSTE PROTEIN*, 380 g",1.69,2.09,-19%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddac02f64.png
+maxima,"BIRŽŲ DUONOS raikyta avižinė duona be glitimo*, 210 g",2.39,2.99,-20%,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddab94ded.png
+maxima,"Ekologiškos paninių duonelės SCHNITZER be glitimo*, 188 g",2.69,3.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddab45993.png
+maxima,"Ekologiška duona SCHNITZER BAGUETTE be glitimo*, 360 g",3.99,5.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddac19cd2.png
+maxima,"Ekologiška baltyminė duona SCHNITZER TOASTIE be glitimo*, 170 g",2.69,3.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddabbd415.png
+maxima,"Visų grūdo dalių raikyta bemielė duona BEATOS VIRTUVĖ*, 300 g",1.39,1.79,-22%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddabaa02d.png
+maxima,"BIRŽŲ DUONOS raikyta KETO duona be glitimo*, 180 g",1.99,2.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddac5f0ba.png
+maxima,"Duona SCHAR FLATBREADS be glitimo*, 180 g",3.99,5.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddacd521c.png
+maxima,"BIRŽŲ DUONOS plėšomosios sviestinės bandelės*, 300 g",1.49,2.39,-37%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/69709b6f84796.png
+maxima,"BIRŽŲ DUONOS plėšomosios bandelės*, 150 g",0.89,1.39,-35%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/69709b6fad1c9.png
+maxima,"Perkant 2 ar daugiau šaldytos produkcijos, taikoma 30 % nuolaida*",,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ee1008a.png
+maxima,"Šaldyta ryklinių šamų filė be odos NOWACO*, 560 g",3.15,4.55,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e3c5205.png
+maxima,"Šaldyti kalmarų žiedai su tešlos plutele WELL DONE*, 500 g",2.09,2.99,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e4491b9.png
+maxima,"Šaldytos virtos didžiosios tigrinės krevetės be kiautų WELL DONE*, 225 g",4.19,5.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e7bc06c.png
+maxima,"Šaldyti koldūnai su mėsos įdaru PINIGĖLIAI*, 500 g",2.39,3.69,-35%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75edde72a.png
+maxima,Šaldytiems gaminiams PASAULIO PUODAI*,,,-40%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75eca35d9.png
+maxima,"Šaldyti cepelinai su mėsa WELL DONE*, 400 g",1.39,1.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ecc72dc.png
+maxima,"Šaldytas prancūziškas batonas WELL DONE su česnakiniu sviestu*, 350 g",1.39,1.99,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ed2433d.png
+maxima,"Šaldyti saldūs blyneliai VIČI*, 500 g",2.19,3.19,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75ecf32dc.png
+maxima,"Šaldytos apkeptos banguotos bulvių lazdelės AVIKO*, 750 g",2.09,2.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ed48515.png
+maxima,"Plombyras; šerbetas vafliniame puodelyje NYKŠTUKAS*, 2 rūšių, 72–76 g",0.79,1.19,-33%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ec7e2bb.png
+maxima,"Valgomieji ledai TWIX; BOUNTY; SNICKERS*, 3 rūšių, 39–48 g",0.85,1.25,-32%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ed6d526.png
+maxima,"Valgomieji ledai ant pagaliuko NESTLÉ NESQUIK*, 1 dėž. (9 vnt. × 36 g)",2.59,3.79,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75edba057.png
+maxima,Valgomiesiems ledams MAGNUM*,,,-40%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d80e01f.png
+maxima,"Plombyras; valgomieji ledai indelyje AURUM*, 3 rūšių, 445–455 g",4.99,7.29,-31%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d874a71.png
+maxima,"Valgomieji ledai ant pagaliuko NUTRI PROTEIN*, 3 rūšių, 67–73 g",1.19,1.69,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbc5a3c1.png
+maxima,"Valgomieji grietininiai ledai ant pagaliuko KLASIKA*, 2 rūšių, 50 g",0.89,1.19,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbd6a916.png
+maxima,"Plombyras puodelyje NYKŠTUKAS be laktozės*, 2 rūšių, 74–75 g",0.89,1.19,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbd01fb7.png
+maxima,"Plombyras indelyje NYKŠTUKAS, braškių skonio, be laktozės*, 400 g",4.99,7.29,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbcd5d2a.png
+maxima,"Šaldytų uogų ir vaisių rinkinys BERIBU*, 2 rūšių, 240 g",3.29,3.69,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbd8ca8d.png
+maxima,"Šaldytas uogų mišinys HORTEX su avietėmis*, 300 g",2.69,3.35,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbc9814e.png
+maxima,"Šaldyta veganiška pica ANAMMA MEXICANA*, 350 g",4.29,5.39,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb1bec16.png
+maxima,"Šaldyti falafeliai; sojų dešrelės; maltinukai ANAMMA*, 3 rūšių, 300–325 g",3.99,4.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb1ead26.png
+maxima,"Šaldytas sojų faršas ANAMMA*, 450 g",5.59,6.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb26f4b7.png
+maxima,"Šaldytas meksikietiškas maisto ruošinys HORTEX*, 450 g",2.89,3.65,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb23e9cb.png
+maxima,"Šaldytas meksikietiškas daržovių mišinys HORTEX MEXICO MIX*, 400 g",1.29,1.59,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb257943.png
+maxima,"Šaldytas kepamų daržovių mišinys HORTEX su itališkais prieskoniais*, 400 g",1.55,1.95,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb227c67.png
+maxima,"Šaldytas daržovių mišinys HORTEX SPRING VEGETABLES*, 400 g",1.19,1.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb1a37e7.png
+maxima,"Šaldytas daržovių mišinys HORTEX VIP*, 400 g",1.49,1.85,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb28474e.png
+maxima,"Šaldytos virtos baltakojės blyškiosios krevetės SUNRISE*, 225 g",4.79,5.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb1d60e5.png
+maxima,"Šaldytos nevirtos krevetės SUNRISE*, 2 rūšių, 800 g",15.99,19.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb210464.png
+maxima,"Šaldytos virtos čilinės midijos SUNRISE be kiautų*, 180 g",2.05,2.59,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb6ca1a0.png
+maxima,"Šaldyta silkių MATJES filė NOWACO EXCLUSIVE be odos*, 350 g",5.99,7.65,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb6afe49.png
+maxima,"Šaldyti melsvųjų vilkžuvių pjausniai SUNRISE*, 900 g",4.79,5.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb665796.png
+maxima,"Šaldyta ryklinių šamų filė SUNRISE be odos*, 750 g",5.59,6.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb6316ab.png
+maxima,"Šaldyta ilgųjų jūrinių lydekų filė SUNRISE be odos*, 750 g",5.89,7.39,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb67ded7.png
+maxima,"Šaldyta pica DR. OETKER FELICIANA*, 3 rūšių, 320–360 g",2.15,3.59,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc1d87ec.png
+maxima,Šaldytai produkcijai JUDEX*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc1aee5b.png
+maxima,"Šaldytos gruzdintos bulvytės FARM FRITES LONG & CRUNCHY*, 600 g",1.65,2.79,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc186c66.png
+maxima,"Sveriamiems saldainiams, sald. dėžutėse, vafliams ir sausain. ROSHEN*",,,-50%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dcdfd61.png
+maxima,"Sausainiai MILKA CHOCO*, 3 rūšių, 135–150 g",2.09,2.79,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d498cea.png
+maxima,"Sausainiai MULINO BIANCO BARILLA*, 3 rūšių, 350 g",2.19,2.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d4593da.png
+maxima,"BIRŽŲ DUONOS sausainiai SNIEGUTIS*, 400 g",2.29,3.79,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d4b2359.png
+maxima,"Plikyti sausainiai ROLANTA*, 2 pak. × 250 g",2.99,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d4713de.png
+maxima,"KASDIENIAI riestainiai JAVINĖ*, 300 g",1.39,1.85,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d7aa378.png
+maxima,"PERGALĖS saldainiai RAUDONOJI AGUONA*, sveriami, 1 kg",6.99,9.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dd4d814.png
+maxima,"PERGALĖS saldainiai VELIUONA*, sveriami, 1 kg",8.59,12.59,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dd04a4a.png
+maxima,"Saldainiai MIGLĖ*, sveriami, 1 kg",7.29,11.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dc7dbd4.png
+maxima,"PERGALĖS saldainių rinkinys VILNIUS; MARC DE CHAMPAGNE; SOSTINĖ*, 3 rūšių, 140–170 g",3.99,4.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dcc798d.png
+maxima,"Karameliniai saldainiai TOFFIFEE su lazdynų riešutų kremu*, 125 g",1.79,2.89,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dd1d39e.png
+maxima,"Pieninis šokoladas PERGALĖ*, 2 rūšių, 85–100 g",1.49,2.29,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dd3433d.png
+maxima,"Vaflinis batonėlis PRINCE POLO*, 3 rūšių, 2 vnt. × 45 g",1.19,,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dc95efb.png
+maxima,"Vaflinis batonėlis LION*, 3 rūšių, 60–62 g",0.79,1.19,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dcae3cd.png
+maxima,Guminukams HARIBO*,,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dd659be.png
+maxima,"Zefyrai LAIMA*, 3 rūšių, 200 g",1.29,1.89,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d4063de.png
+maxima,"Becukriai sausainiai BOGUTTI LA GUSTOSA su saldikliu*, 2 rūšių, 150 g",1.79,2.39,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb92298c.png
+maxima,"Datulės šokolade CHOCODATE*, 3 rūšių, 90 g",3.99,4.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb87d7d6.png
+maxima,"Becukris juodas šokoladas VALOR*, 2 rūšių, 100 g",2.99,4.39,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb64ade1.png
+maxima,"Becukris juodasis šokoladas VALOR su migdolais*, 150 g",3.99,5.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb696d8b.png
+maxima,Baltyminiams batonėliams GRENADE*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbf07a8d.png
+maxima,"Batonėlis NAKD*, 3 rūšių, 1 dėž. (4 pak. × 35 g)",3.49,4.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb37422f.png
+maxima,"Baltyminis batonėlis ME2U*, 3 rūšių, 60 g",1.49,2.15,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb32969a.png
+maxima,"Baltyminis riešutų batonėlis MAXI NUTRITION*, 2 rūšių, 46 g",1.99,2.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb2d6327.png
+maxima,"Maži datulių batonėliai GOOD CALORIES*, 3 rūšių, 102–108 g",2.99,3.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb38d3db.png
+maxima,"Baltyminis batonėlis MAXSPORT CRUNCHY*, 2 rūšių, 40 g",1.29,1.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb343154.png
+maxima,"Ekologiškas avižų batonėlis LIFE BAR*, 3 rūšių, 40 g",1.39,1.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb2bbb7a.png
+maxima,"Baltyminis batonėlis GO ON*, 3 rūšių, 50 g",0.79,1.15,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb2ecddd.png
+maxima,"Baltyminis vaflis; blynelis GO FITNESS*, 3 rūšių, 50 g",1.99,2.69,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb35b44d.png
+maxima,"Pieninis šokoladas LACMI*, 3 rūšių, 85–90 g",1.09,1.89,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695e6cc059b9e.png
+maxima,Saldainiams M&M’S ir MALTESERS*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cbfd751c.png
+maxima,"Tepamasis kremas KIDDY su lazdynų riešutais ir kakava*, 700 g",4.99,6.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695e6cc0328b1.png
+maxima,"Sausainiai OREO*, 3 rūšių, 154–157 g",1.49,2.49,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc01e559.png
+maxima,"Majonezinis padažas VILNIUS*, 3 rūšių, 22,6–25 % rieb., 420 ml",1.99,2.29,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e1ab9a6.png
+maxima,"KĖDAINIŲ KONSERVŲ YPATINGAS pomidorų padažas*, 720 g",1.99,2.89,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e18f6ab.png
+maxima,Dribsniams ir granoloms GRACI*,,,-25%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f13d51a.png
+maxima,"Kakaviniai javainiai; sausi pusryčiai OHO!*, 2 rūšių, 500 g",2.19,3.19,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f18d8ac.png
+maxima,"Ekologiška grikių granola ELEMENT*, 3 rūšių, 255 g",2.99,4.49,-33%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75f16539f.png
+maxima,"Avižiniai dribsniai ELOVENA*, 500 g",1.79,2.59,-30%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75f21bb7a.png
+maxima,"Avižinių dribsnių košė AXA*, 3 rūšių, 40 g",0.39,0.55,-29%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f2c090c.png
+maxima,"Grikių kruopos GALINTA*, 2 rūšių, 800 g",1.79,2.79,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f26cc85.png
+maxima,Ryžiams ir kitoms kruopoms GRALLA*,,,-35%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75f1e7311.png
+maxima,"Kvietiniai KAUNO GRŪDŲ miltai EKSTRA*, 405 D, 1,75 kg",1.59,2.39,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f1bd159.png
+maxima,"Makaronai DIVELLA*, 3 rūšių, 500 g",1.09,1.59,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f245375.png
+maxima,"Greitai paruošiami makaronai NONGSHIM*, 2 rūšių, 120 g",1.49,2.35,-36%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75ea6a1a2.png
+maxima,"Greitai paruošiami makaronai REEVA*, 3 rūšių, 60 g",0.45,0.59,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ea8d7a3.png
+maxima,"Baltasis cukrus WELL DONE*, 1 kg",0.79,1.09,-27%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75eab008b.png
+maxima,"Želė DR. OETKER*, 3 rūšių, 72 g",0.89,1.29,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ead21a7.png
+maxima,Prieskoniams SAUDA*,,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ea22ba0.png
+maxima,"Saulėgrąžų; rapsų aliejus WELL DONE*, 2 rūšių, 1 l",1.69,2.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ea46516.png
+maxima,"Ekologiškas šalto spaudimo alyvuogių aliejus BIONATURALIS*, 750 ml",12.99,17.49,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ea00645.png
+maxima,"Natūralios citrinų sultys POLENGHI*, 200 ml",0.89,1.29,-31%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dbab3d9.png
+maxima,Padažams BUGA’S*,,,-25%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dc15495.png
+maxima,Produkcijai KIKKOMAN*,,,-25%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75db93788.png
+maxima,"Jūrų dumblių užkandis SAITAKU*, 10 g",1.19,1.49,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d48524b.png
+maxima,"Spraginamieji kukurūzai ESTRELLA*, 3 rūšių, 90 g",0.79,1.19,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d7bbcc2.png
+maxima,"Bulvių traškučiai ESTRELLA*, 3 rūšių, 180 g",1.89,3.19,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75de0abf5.png
+maxima,"Bulvių traškučiai LAY’S*, 3 rūšių, 120–130 g",1.69,2.29,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ddcccae.png
+maxima,"Keptos ir sūdytos pistacijos ARIMEX*, 500 g",10.39,13.85,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75ddb34f1.png
+maxima,"Riešutams, džiovintiems vaisiams ir jų mišiniams SEEBERGER*",,,-25%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dde5fae.png
+maxima,"Džiovintos spanguolės WELL DONE*, 200 g",2.19,2.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75de24d06.png
+maxima,Šaltyje džiovintiems vaisiams SUPERGARDEN*,,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75de58913.png
+maxima,"Juodosios kepintos saulėgrąžų sėklos BAZARO*, 2 rūšių, 300 g",2.49,3.39,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d58772e.png
+maxima,"Krekeriai GAIDELIS*, 3 rūšių, 70–72 g",0.59,0.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d54ba92.png
+maxima,"Duonos traškučiai MARETTI*, 3 rūšių, 70 g",0.89,1.15,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d4da3be.png
+maxima,"Traškučiai TALER OVEN BAKED*, 2 rūšių, 135–180 g",1.15,1.69,-31%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d575216.png
+maxima,Produkcijai be glitimo BALVITEN*,,,-20%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddac4a922.png
+maxima,"Visų grūdo dalių speltų kvietiniai miltai MALSENA*, 1 kg",1.79,2.39,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb616edb.png
+maxima,"Kvietiniai visų grūdo dalių miltai MALSENA*, 1,75 kg",1.29,1.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb5ef2ca.png
+maxima,"Visų grūdo dalių ruginiai miltai MALSENA*, 1,75 kg",1.29,1.79,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb5d56f8.png
+maxima,"Kviečių sėlenos MALSENA*, 200 g",0.69,0.89,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddae116a9.png
+maxima,"Šviesūs speltų kvietiniai miltai MALSENA*, 1 kg",1.79,2.39,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddae96693.png
+maxima,"Kukurūzų miltai MALSENA*, 1 kg",1.29,2.25,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddae6657a.png
+maxima,"Balkšvųjų gysločių sėklų luobelės ŽOLYNĖLIS*, 200 g",5.99,9.99,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddae3b596.png
+maxima,"Margainių vaisių milteliai ŽOLYNĖLIS*, 300 g",3.49,5.49,-36%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddadf0b95.png
+maxima,"Kanapių sėklų baltymų milteliai ŽOLYNĖLIS*, 300 g",2.29,3.29,-30%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddae2609c.png
+maxima,"Kviečių želmenų milteliai ŽOLYNĖLIS*, 200 g",4.49,6.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddadda4c0.png
+maxima,"Smulkintos vynuogių sėklos ŽOLYNĖLIS*, 200 g",3.49,4.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbc3911c.png
+maxima,"Džiovintų vaisių ir uogų mišinys URBAN FOOD IMUNITETAS*, 70 g",6.99,8.49,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbbc76df.png
+maxima,"Daržovių mišinys vaikams URBAN FOOD*, 70 g",5.99,6.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbb67c30.png
+maxima,"Ekologiški juodųjų serbentų; miško mėlynių milteliai URBAN FOOD*, 2 rūšių, 100 g",7.49,8.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbb292ef.png
+maxima,"Ekologiški špinatų; burokėlių; šaltalankių milteliai URBAN FOOD*, 3 rūšių, 100 g",4.99,5.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbb480d7.png
+maxima,"Baltosios bolivinės balandos AMRITA*, 400 g",2.49,3.99,-37%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbba75ac.png
+maxima,"Sėklų mišinys su migdolais; braškėmis BEATOS VIRTUVĖ*, 2 rūšių, 150 g",2.39,2.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbb07bc2.png
+maxima,"Linų sėmenys ALVO*, 500 g",1.75,2.19,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbbee318.png
+maxima,"Ekologiški saulėgrąžų branduoliai ALVO*, 350 g",1.99,2.59,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbb87efb.png
+maxima,"Linų sėmenys ALVO*, 150 g",0.69,0.89,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbc19602.png
+maxima,"Sezamų sėklų mišinys ALVO*, 100 g",0.95,1.19,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb08a935.png
+maxima,"Lukštentos kanapių sėklos ALVO*, 120 g",2.45,3.05,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb0019f7.png
+maxima,"Ispaninių šalavijų sėklos ALVO*, 100 g",2.19,2.79,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb030ef4.png
+maxima,"Riešutų ir džiovintų vaisių mišinys HARMONY WELL DONE*, 500 g",3.99,4.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddafcac17.png
+maxima,"Anakardžiai; graikiniai riešutai WELL DONE*, 2 rūšių, 500 g",6.39,7.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb017713.png
+maxima,"Džiovintos slyvos WELL DONE*, 500 g",4.79,5.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb072bd8.png
+maxima,"Kukurūzų makaronai SAM MILLS be glitimo*, 2 rūšių, 500 g",1.29,1.89,-31%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb0499ab.png
+maxima,"Kruopų makaronai SAM MILLS*, 3 rūšių, 250 g",2.19,3.45,-36%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb05dff7.png
+maxima,"Bulvių virtinukai AL DENTE be glitimo*, 500 g",2.49,3.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb710cee.png
+maxima,"Tortilijos OLD EL PASO be glitimo*, 216 g",2.69,4.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb785f79.png
+maxima,"Kečupas HEINZ ZERO*, 400 ml",2.69,3.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb7de47b.png
+maxima,"Ekologiškas šaltai spaustas linų sėmenų aliejus BIONATURALIS*, 250 ml",2.99,3.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddc075213.png
+maxima,"Saulėgrąžų kremas SUNFLY*, 3 rūšių, 330 g",3.49,4.99,-30%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbf6f55f.png
+maxima,"Ekologiškas šalto spaudimo kokosų aliejus AMRITA*, 200 ml",2.49,3.79,-34%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddc0041ca.png
+maxima,"Ekologiškas kokosų žiedų cukrus AMRITA*, 400 g",3.49,5.49,-36%,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddc02fe77.png
+maxima,"Saldiklis su stevija DULCI LIGHT*, 1 dėž. (50 vnt.)",2.29,2.99,-23%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbf2a5a6.png
+maxima,"Ekologiškas agavų; datulių sirupas AMRITA*, 3 rūšių, 250 ml",3.49,5.65,-38%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddc0532d3.png
+maxima,"Traškios ruginės duonelės FINN CRISP ORIGINAL*, 200 g",1.59,2.29,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbfd4332.png
+maxima,"Kvietinės; ruginės duonelės WASA*, 2 rūšių, 200–275 g",1.99,2.69,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbf4c618.png
+maxima,"Pilno grūdo kvietinės duonelės WASA CRISP*, 110 g",1.49,1.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbf9165a.png
+maxima,"Duonos traškučiai SELGA NATURE*, 3 rūšių, 200 g",1.89,2.89,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbfb2d0e.png
+maxima,"Ekologiški baltyminiai grūdų paplotėliai GAM’S*, 3 rūšių, 50 g",1.15,1.69,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb8daaf5.png
+maxima,"Užkandis TARALLINI be glitimo*, 2 rūšių, 100 g",2.49,3.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb940e62.png
+maxima,"Bulvių traškučiai SCHÄR be glitimo*, 2 rūšių, 170 g",3.19,4.69,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb829d5e.png
+maxima,"Kukurūzų trapučiai SAULĖS GRŪDAS*, 2 rūšių, 120 g",0.69,0.95,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb89b16a.png
+maxima,Produkcijai be glitimo BEGINNINGS*,,,-25%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb861a21.png
+maxima,"Baltyminiai lęšių traškučiai ME2U*, 3 rūšių, 65 g",1.39,1.79,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb845991.png
+maxima,"Greitai paruošiama avižinių dribsnių košė ACTIVUS*, 2 rūšių, 60 g",0.99,1.39,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbe2213c.png
+maxima,"Granola PAULUNS*, 3 rūšių, 450 g",4.59,6.19,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbeb67ad.png
+maxima,"Baltyminė granola GO ON*, 2 rūšių, 300 g",3.99,4.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbdacfb9.png
+maxima,"Liofilizuoti avižų kubeliai FRUPP*, 2 rūšių, 25 g",1.89,2.29,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbe00440.png
+maxima,"Mėlynių džemas ZUEGG be cukraus*, 220 g",3.49,4.49,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddbe65f41.png
+maxima,"Uogų; vaisių džemas be pridėtinio cukraus ZUEGG*, 3 rūšių, 220 g",2.99,3.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbdd189f.png
+maxima,KLINGAI želei ir kisieliams be pridėtinio cukraus*,,,-25%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbed8985.png
+maxima,Produkcijai MAXI NUTRITION*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb3121f7.png
+maxima,Baltyminei produkcijai MY PROTEIN*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb2a0583.png
+maxima,"Baltyminių blynų ir vaflių mišinys FRONTRUNNER*, 2 rūšių, 500 g",8.99,12.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb7693cd.png
+maxima,"Išrūgų baltymai FRONTRUNNER*, 3 rūšių, 1 kg",19.99,32.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb8076c4.png
+maxima,Baltymams GYMON*,,,-20%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb72f4e1.png
+maxima,Baltymams FORCEFIVE*,,,-20%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb8bcd75.png
+maxima,"Augaliniai baltymai NARA*, 2 rūšių, 600 g",25.99,34.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb905e0d.png
+maxima,"Subalansuotas maisto kokteilis NARA*, 1,5 kg",29.99,44.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddc0ba4cf.png
+maxima,"Kreatinas MAXI NUTRITION*, 250 g",13.19,21.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddc10c683.png
+maxima,"Milteliai ACORUS BALANCE*, 3 rūšių, 300 g",5.99,9.49,-36%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddc174f26.png
+maxima,"Energinis gelis NDURANZ*, 2 rūšių, 75 g",1.29,1.89,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddc0dd416.png
+maxima,"Elektrolitų gėrimo milteliai MAXI NUTRITION*, 2 rūšių, 128–160 g",5.39,8.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddc1516bc.png
+maxima,"Elektrolitų gėrimo tabletės NDURANZ*, 2 rūšių, 180 g",3.49,4.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddc19c682.png
+maxima,"Elektrolitų gėrimo tabletės NDURANZ ENERGY BOOST*, 180 g",3.99,5.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddc12efad.png
+maxima,"Maisto papildas MÖLLER’S JUNIOR*, 3 rūšių, 1 dėž. (45 vnt.)",10.99,18.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695d0e5b50669.png
+maxima,"Maisto papildas MÖLLER’S*, 250 ml",8.99,17.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddaec2c37.png
+maxima,"Maisto papildas MÖLLER’S*, 3 rūšių, 1 pak. (56; 80 vnt.)",9.49,18.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddaf6d30b.png
+maxima,"Maisto papildas MÖLLER’S*, 2 rūšių, 250 ml",9.99,17.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddad876a4.png
+maxima,"Maisto papildas LIVOL MULTI STRONG COMPLEX*, 1 dėž. (60 vnt.)",11.99,19.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddadc2452.png
+maxima,"Vitaminai LIVOL EXTRA C + D*, 1 dėž. (60 vnt.)",6.49,10.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddad21d25.png
+maxima,"Vitaminai vaikams LIVOL MULTI*, 1 dėž. (60 vnt.)",10.99,15.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddad34f36.png
+maxima,"Kalcio guminukai LIVOL*, 1 dėž. (50 vnt.)",10.99,17.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddad72664.png
+maxima,"Visų grūdo dalių kapotos avižos; avižiniai dribsniai MALSENA*, 2 rūšių, 1,2–1,5 kg",1.99,3.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc2211a3.png
+maxima,Sausiems pusryčiams ir javainių batonėliams NESTLÉ*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc29c6a3.png
+maxima,Makaronams LA MOLISANA*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc237481.png
+maxima,Produkcijai MAGGI*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc2b08ee.png
+maxima,Prieskoniams VEGETA*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc2dafbc.png
+maxima,Aliejams BASSO*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc2747e5.png
+maxima,"KĖDAINIŲ KONSERVŲ TRADICINIS pomidorų padažas*, 480 g",0.99,1.59,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc287fd4.png
+maxima,"Keptos pupelės pomidorų padaže HEINZ*, 415 g",1.29,2.19,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc00b951.png
+maxima,"DAUMANTŲ majonezinis padažas WOWMAMA*, 3 rūšių, 35–40 % rieb., 420–440 g",1.95,2.79,-30%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cbf8e52f.png
+maxima,"Kukurūzų užkandis CHEETOS*, 3 rūšių, 145–165 g",1.29,2.59,-50%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc3127d6.png
+maxima,"STUDENTŲ maistas su riešutais ir džiovintais vaisiais ARIMEX*, 300 g",3.59,5.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc2f1230.png
+maxima,"Džiovinti vaisių ir uogų kubeliai be pridėtinio cukraus FRUNICA*, 3 rūšių, 200 g",2.59,4.39,-41%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695e6cc33f474.png
+maxima,"Krekeriai MINI TUC*, 3 rūšių, 100 g",0.99,1.69,-41%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695e6cc3cd474.png
+maxima,"KĖDAINIŲ KONSERVŲ marinuoti agurkai su ąžuolų lapais*, 660 g",1.79,2.59,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e1723be.png
+maxima,"Konservuoti žalieji žirneliai WELL DONE*, 660 g",1.49,1.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e1e3181.png
+maxima,"Konservuoti kukurūzai BONDUELLE GOLD*, 340 g",1.69,2.19,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e1c84bf.png
+maxima,"Konservuoti smulkinti; lupti pomidorai WELL DONE*, 3 rūšių, 400 g",1.19,1.49,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e1340f0.png
+maxima,"Konservuotų Chalapos paprikų griežinėliai ANIRA*, 350 g",1.39,1.79,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e211c72.png
+maxima,"KĖDAINIŲ KONSERVŲ braškių uogienė*, 430 g",2.69,3.59,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f294fb6.png
+maxima,Konservuotai produkcijai ACTIVUS*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb7bebbf.png
+maxima,"KĖDAINIŲ KONSERVŲ marinuoti agurkai be pridėtinio cukraus*, 720 ml",1.69,2.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb74b0c9.png
+maxima,"VILNIAUS PAUKŠTYNO greitai paruošiamas padažas HEAT & EAT*, 2 rūšių, 230 ml",2.99,4.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb6eba3c.png
+maxima,"VILNIAUS PAUKŠTYNO skystas sultinys HEAT & EAT*, 3 rūšių, 350 ml",2.49,3.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb7a1332.png
+maxima,"Arbatos koncentratas WELL DONE*, 3 rūšių, 520 ml",4.69,6.29,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d79440a.png
+maxima,"Biri PRESTO žalioji arbata; matė*, 3 rūšių, 80–90 g",1.49,1.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d76c966.png
+maxima,"Biri juodoji arbata TWININGS*, 2 rūšių, 100 g",4.69,6.29,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d781030.png
+maxima,"Žolelių arbata ŽOLYNĖLIS*, 3 rūšių, 1 dėž. (20 pak.)",1.69,2.49,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddbe88091.png
+maxima,"DR. ŠIMKŪNAITĖS biri žolelių arbata ETNO*, 3 rūšių, 30 g",1.89,2.79,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddbe4630a.png
+maxima,Arbatai LIPTON*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc0470a4.png
+maxima,"Natūralus gazuotas mineralinis vanduo NEPTŪNAS*, 2 rūšių, 1,5 l",0.55,0.85,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d43fd0d.png
+maxima,"Natūralus mineralinis vanduo RASA LIGHT*, 1,5 l",0.49,0.75,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d3e6d32.png
+maxima,"Negazuotas vanduo VICHY FRESH STRAWBERRY*, 1,5 l",0.75,1.09,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d42e76a.png
+maxima,"Įvairių vaisių nektaras ELMENHORSTER*, 1 l",1.49,1.95,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d36462c.png
+maxima,"Apelsinų sultys TYMBARK*, 1 l",2.39,3.35,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d395005.png
+maxima,"Obuolių nektaras CAPPY*, 1 l",1.69,2.59,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d3a8d83.png
+maxima,"Negazuotas gėrimas TICHĖ GAJA*, 2 rūšių, 2 l",1.49,2.45,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d3bed35.png
+maxima,"Gazuotas gėrimas RASA*, 3 rūšių, 2 l",1.29,2.09,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d41c206.png
+maxima,"Gazuotas gėrimas COCA-COLA; FANTA; SPRITE*, 3 rūšių, 1,5 l",1.49,2.15,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d3d34e6.png
+maxima,"Rauginta SMETONIŠKA gira*, 1,5 l",1.19,1.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dd9daa2.png
+maxima,"Energinis gėrimas CULT*, 3 rūšių, 500 ml",1.09,1.69,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75de722a8.png
+maxima,"Nealkoholinis šviesusis KALNAPILIO alus*, 500 ml",0.79,1.09,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75de3da5d.png
+maxima,"Perkant 2 ar daugiau nealkoholinio vyno, sidro ir alaus, taikoma 30 % nuolaida*",,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dd85880.png
+maxima,"Nepasterizuotos apelsinų sultys SUN 365*, 500 ml",2.79,3.49,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddc1e4cbd.png
+maxima,"Nepasterizuotas glotnutis SUN 365*, 3 rūšių, 250 ml",1.99,2.49,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddc097520.png
+maxima,"Vaisių sultys SUN 365*, 2 rūšių, 60 ml",1.59,1.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddc1c13b7.png
+maxima,"Nealkoholinė putojanti arbata SUN 365*, 3 rūšių, 750 ml",4.99,7.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb9bf271.png
+maxima,"Šviežios apelsinų sultys SUN 365*, 250 ml",2.09,2.59,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb962879.png
+maxima,"Ekologiškas fermentuotas gėrimas PINK*, 300 ml",2.99,3.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb9df09f.png
+maxima,"Gaivusis gėrimas ALLDEYNN COLLAGEN*, 2 rūšių, 330 ml",0.99,1.79,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695f5e26ed91c.png
+maxima,"Gazuotas funkcinis gėrimas VITA POP*, 3 rūšių, 330 ml",1.49,1.99,,,02.02,XXX,https://offers.maxima.lt/media/MarketingOffer/695bddb9a17fe.png
+maxima,"Pomidorų sulčių gėrimas DIMDINI*, 250 ml",0.99,1.29,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddba5e744.png
+maxima,"Morkų sultys KADARBIKU*, 500 ml",1.99,2.39,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddba40a5d.png
+maxima,"Šviežiai spaustos sultys KADARBIKU*, 250 ml",2.29,2.69,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddba23629.png
+maxima,"Gazuotas gaivusis gėrimas su vitaminais DR. WITT*, 2 rūšių, 330 ml",0.89,1.29,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddba7c5e0.png
+maxima,"Gaivusis gėrimas su vitaminais CIDO HYDRATE +*, 3 rūšių, 600 ml",0.79,1.39,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695bddb980c4b.png
+maxima,"Vitamininis gėrimas VITAMIN WELL ACTIVE*, 500 ml",1.79,2.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddba9fa43.png
+maxima,"Fermentuotas aviečių gėrimas GĖRIS*, 500 ml",14.99,19.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695d0e5b93508.png
+maxima,"Natūralus gazuotas mineralinis vanduo NEPTŪNAS*, 3 rūšių, 2 but. × 1,5 l",0.89,,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cbfb14db.png
+maxima,"Sulčių gėrimas TYMBARK FRUIT OF THE WORLD*, 3 rūšių, 1 l",0.99,1.95,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cbfeb825.png
+maxima,"Nealkoholinis putojantis pusiau sausas vynas FREIXENET*, 2 rūšių, 750 ml",4.99,7.99,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cbfc4236.png
+maxima,"Nealkoholinis alus VOLFAS ENGELMAN*, 568 ml",0.59,1.19,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/6965fcafa611a.png
+maxima,"Konservuotas šunų ėdalas PEDIGREE*, 3 rūšių, 1 maiš. (4 pak. × 100 g)",1.49,2.35,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d904092.png
+maxima,"Sausas šunų ėdalas CANIS MAJOR*, 2 rūšių, 3 kg",5.49,7.79,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d8cf68e.png
+maxima,"Šunų skanėstas su antiena AKINU*, 75 g",1.09,1.55,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d982a31.png
+maxima,"Konservuotas kačių ėdalas PURINA FELIX*, 3 rūšių, 1 maiš. (4 pak. × 85 g)",1.69,2.39,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d9171f6.png
+maxima,"Sausas kačių ėdalas ARDOUR*, 2 rūšių, 800 g",3.49,4.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d92de75.png
+maxima,"Silikagelio kraikas katėms LOVETT*, 3,8 l",2.79,4.69,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d96d58f.png
+maxima,"Konservuotas kačių ėdalas PURINA ONE*, 3 rūšių, 1 maiš. (4 pak. × 85 g)",2.35,3.89,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc097f81.png
+maxima,"Sausas kačių ėdalas PURINA ONE STERILCAT*, 1,5 kg",6.49,10.69,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc07114b.png
+maxima,"Kačių skanėstas DREAMIES*, 8 rūšių, 2 vnt. × 60 g",1.95,,,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc0ad3e5.png
+maxima,"Tualetinis popierius BLOOM COMFORT, 3 sluoksnių, 1 pak. (40 rit.)",6.99,13.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dab03af.png
+maxima,"Perkant 2 ar daugiau moterų intymios higienos prekių, taikoma 30 % nuolaida*",,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ef4b7e2.png
+maxima,Burnos priežiūros prekėms ORAL-B*,,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d4c6098.png
+maxima,"Dantų pasta COLGATE TOTAL*, 2 rūšių, 75 ml",2.89,4.49,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d5610a9.png
+maxima,Kosmetikai ARAS*,,,-30%,,01.26,XXX,https://offers.maxima.lt/media/MarketingOffer/696e75d4eed1d.png
+maxima,Plaukų priežiūros priemonėms GARNIER FRUCTIS*,,,-35%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e6e2f08.png
+maxima,Plaukų priežiūros priemonėms SCHWARZKOPF GLISS*,,,-35%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e660f4c.png
+maxima,Plaukų priežiūros priemonėms SCHWARZKOPF TAFT*,,,-35%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e6a045c.png
+maxima,"Vyriškas pieštukinis dezodorantas OLD SPICE*, 3 rūšių, 50 ml",3.95,5.29,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75da5119c.png
+maxima,"Dušo želė PALMOLIVE NATURALS*, 500 ml",2.75,4.29,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75da3af88.png
+maxima,"Vyriški vienkartiniai skustuvai WILKINSON SWORD SENSITIVE*, 1 pak. (4 vnt.)",2.85,4.79,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75da66086.png
+maxima,"Vatos lapeliai BELLA*, 1 pak. (120 vnt.)",1.29,1.85,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696f76771d140.png
+maxima,"Higieniniai paketai BELLA PERFECTA ULTRA*, 3 rūšių, 1 pak. (20; 14 vnt.)",2.39,4.05,-40%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75da25e3c.png
+maxima,"Higieniniai paketai LIBRESSE ULTRA*, 1 pak. (20 vnt.)",2.09,3.49,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d99b499.png
+maxima,"Gręžiami popieriniai rankšluosčiai ZEWA, 2 sluoksnių, 1 pak. (2 rit.)",2.69,5.49,-51%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75db5a2cc.png
+maxima,Kosmetikai DOVE ir REXONA*,,,-50%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc36faef.png
+maxima,Kosmetikai NIVEA*,,,-50%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc386c1d.png
+maxima,"Skystasis skalbiklis WOOLITE KERATIN*, 3 rūšių, 2,7 l (45 skalb.)",8.09,13.49,-40%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d9b2741.png
+maxima,"Skalbiamosios kapsulės ARIEL*, 3 rūšių, 1 pak. (44; 38 vnt.)",14.09,25.69,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d9dd3c8.png
+maxima,"Skalbimo milteliai BONUX*, 3 rūšių, 1,17 kg (18 skalb.)",3.79,5.49,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d9c8b08.png
+maxima,"Skalbinių minkštiklis LENOR*, 3 rūšių, 1,2–1,49 l, 1 but. (59–71 skalb.)",4.79,7.99,-40%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75da10d63.png
+maxima,"Indų ploviklis FAIRY*, 2 rūšių, 900 ml",4.39,6.29,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75da82e94.png
+maxima,"Indaplovių kapsulės FINISH POWERBALL*, 3 rūšių, 1 pak. (80; 62; 85 vnt.)",19.99,39.99,-50%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75db43df6.png
+maxima,"Universalusis valiklis CILLIT BANG*, 3 rūšių, 750 ml",5.59,7.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75db00140.png
+maxima,"WC valiklis ACE ULTRA*, 3 rūšių, 750 ml",2.09,2.99,-30%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75dac692d.png
+maxima,"WC valiklis HARPIC MAX*, 3 rūšių, 750 ml",2.75,4.59,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75db2d5a9.png
+maxima,"Oro gaiviklio papildymas AIRWICK*, 3 rūšių, 228 ml",7.39,9.29,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75da9b18f.png
+maxima,"Indaplovių tabletės MAYERI*, 1 dėž. (40 vnt.)",4.79,7.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb3f1185.png
+maxima,"Indaplovių druska MAYERI*, 1,5 kg",2.09,3.49,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb4316a5.png
+maxima,"Indaplovių ploviklis MAYERI*, 500 ml",1.99,3.29,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb47d73f.png
+maxima,"Indaplovių gelis MAYERI*, 600 ml",5.99,8.69,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddaea88da.png
+maxima,"Indaplovių tabletės MAYERI SENSITIVE*, 1 dėž. (40 vnt.)",5.39,8.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddae7dc4e.png
+maxima,"Indų ploviklis NEUTRAL SENSITIVE*, 500 ml",1.79,2.99,-40%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695d0e5b811e9.png
+maxima,"Skystasis skalbiklis NEUTRAL*, 3 rūšių, 1 l (20 skalb.)",5.75,9.59,-40%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddab80b85.png
+maxima,Prekėms L’ARBRE VERT*,,,-40%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddabcf97c.png
+maxima,"Universalusis skystasis valiklis MR. SODA*, 500 ml",1.99,3.45,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddab6b53f.png
+maxima,Prekėms PERSIL*,,,-40%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc3b2fb0.png
+maxima,Prekėms KH-7*,,,-40%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695e6cc3578c8.png
+maxima,"Trintuvas su priedais HENSKE*, 1 rink.",19.99,39.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75db165bb.png
+maxima,KOMPIUTERIJOS PREKĖMS*,,,-30%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75dadc805.png
+maxima,"Perkant 2 ar daugiau šiukš. maišų, gum. piršt., kemp., dėžių, šluotų, taikoma 40 % nuolaida*",,,-40%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75ef22d90.png
+maxima,"Perkant 2 ar daugiau konstruktorių LEGO, taikoma 30 % nuolaida*",,,-30%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75ee86485.png
+maxima,"Perkant 2 ar daugiau žaislų ir kanceliarijos prekių, taikoma 40 % nuolaida*",,,-40%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e3e4098.png
+maxima,"Perkant 2 ar daugiau knygų, taikoma 40 % nuolaida*",,,-40%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e368920.png
+maxima,"Elektrinis virdulys TEFAL*, 1,7 l, 1 vnt.",27.99,49.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e467d92.png
+maxima,"Sumuštinių kepyklė TEFAL*, 1 rink.",49.99,82.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e4c803d.png
+maxima,"Drabužių garintuvas HENSKE*, 1350–1650 W, 1 vnt.",14.99,26.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e5108bd.png
+maxima,"Telefono laikiklis WESTROM*, 1 vnt.",0.99,1.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e531a75.png
+maxima,"Drėgnosios automobilių servetėlės ROTZ*, 2 vnt. × 1 pak. (40 vnt.)",3.49,,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e5aab94.png
+maxima,"Ekrano ir optikos valymo servetėlės WESTROM*, 1 pak. (50 vnt.)",1.49,2.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e56c9f0.png
+maxima,"Satininė paklodė su guma ELDORADO HOME*, 160 × 200 + 30 cm, 1 vnt.",9.99,16.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e58b3ca.png
+maxima,"Satininė paklodė su guma ELDORADO HOME*, 180 × 200 + 30 cm, 1 vnt.",10.79,17.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e4a7cda.png
+maxima,"Satininė paklodė su guma ELDORADO HOME*, 200 × 200 + 30 cm, 1 vnt.",10.99,18.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e54f65e.png
+maxima,"Purškiamasis namų kvapas AREON*, 1 vnt.",2.99,5.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75e48a9f2.png
+maxima,"Pagalvė ELDORADO HOME*, 50 × 70 cm, 1 vnt.",14.99,24.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75e4e770a.png
+maxima,"Kilpinių rankšluosčių rinkinys ELDORADO HOME*, 2 rūšių, 1 rink.(3vnt.), 33 × 33 / 50 × 90 / 68 × 130cm",9.99,16.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75f4450a8.png
+maxima,"Kvapnūs šiukšlių maišai su auselėmis HOME EXPERT*, 35 l, 1 rit. (26 vnt.)",0.99,1.69,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f396772.png
+maxima,"Kvapnūs šiukšlių maišai su auselėmis HOME EXPERT*, 60 l, 1 rit. (18 vnt.)",0.99,1.89,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f31b697.png
+maxima,"Virtuvinės kempinės HOME EXPERT*, 1 pak. (5 vnt.)",0.89,1.49,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f470b77.png
+maxima,"Galvos žibintas HENSKE*, 1 vnt.",2.99,5.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75f3be075.png
+maxima,"Pirkinių krepšys su ratukais*, 1 vnt.",11.99,19.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75f2e829e.png
+maxima,"Sportinis krepšys*, 1 vnt.",9.99,17.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75f3e57b9.png
+maxima,"Kepimo popierius UNIWELL*, 12 m × 29 cm, 1 vnt.",0.89,1.49,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75f41b0e7.png
+maxima,"Maistinė plėvelė UNIWELL*, 30 m × 29 cm, 1 vnt.",0.53,0.89,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75f3422b3.png
+maxima,"Maisto laikymo indeliai ILAJA*, 1 pak. (7 vnt.)",4.99,8.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f36fd78.png
+maxima,"Pjaustymo lentelių rinkinys ILAJA*, 1 rink. (2 vnt.)",2.99,5.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75dec52d1.png
+maxima,"Dubenėlis ILAJA CLEAR*, ø 9 cm, 1 vnt.",0.59,1.29,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75deacdf0.png
+maxima,"Koštuvas ILAJA*, ø 25 cm, 1 vnt.",5.99,9.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75df1d942.png
+maxima,"Filtravimo ąsotis BRITA*, 1 rink.",20.99,34.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75dfad654.png
+maxima,"Moteriškos šlepetės SEVEN LEMON*, 2 rūšių, 37–42 dydžiai, 1 pora",6.59,11.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75df6e6c0.png
+maxima,"Vaikiškos vilnonės šlepetės SEVEN LEMON*, 22–29 dydžiai, 1 pora",6.49,10.99,,,01.26,XXX,https://offers.maxima.lt/media/MarketingOffer/696e75df8b6d7.png
+maxima,"Vaikiški sportiniai batai SEVEN LEMON*, 2 rūšių, 28–35 dydžiai, 1 pora",7.99,14.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75df378e2.png
+maxima,"Sportinės kojinės PUMA*, 3 rūšių, 35–38; 39–42 dydžiai, 1 pak. (3 poros)",5.39,8.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75df05270.png
+maxima,"Berniukų trumpikės SEVEN LEMON*, 86–128 dydžiai, 1 pak. (3 vnt.)",2.79,4.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75df51f63.png
+maxima,"Mergaičių liemenėlė SEVEN LEMON*, 2 rūšių, 1 vnt.",2.49,4.49,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75dede5e6.png
+maxima,"Moteriškos kelnaitės SEVEN LEMON*, M–3XL dydžiai, 1 vnt.",2.39,3.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d956607.png
+maxima,"Metaliniai pakabai HOME EXPERT*, 1 pak. (20 vnt.)",3.99,7.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d8e448b.png
+maxima,"Kilimėlis ELDORADO HOME*, 3 rūšių, 60 × 90 cm, 1 vnt.",5.99,9.99,,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75d8b864a.png
+maxima,"Vonios kilimėlis HOME EXPERT*, 50 × 76 cm, 1 vnt.",3.99,7.99,,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75d942131.png
+maxima,"Knyga Bessel Van Der Kolk KŪNAS MENA VISKĄ*, 1 vnt.",11.99,19.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddad0bea3.png
+maxima,"Knyga I. Greičiūnaitė NESTORAS MAISTAS GALI BŪTI VISOKS*, 1 vnt.",17.69,29.59,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddad5fdce.png
+maxima,"Gertuvė su purkštuku UNIWELL*, 2 rūšių, 570 ml, 1 vnt.",2.99,4.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddad4aae9.png
+maxima,"Pasipriešinimo guma CORUBA*, 0,7 × 1,1 × 120 cm, 1 vnt.",2.99,5.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddad981c7.png
+maxima,"Pasipriešinimo juostų rinkinys CORUBA*, 1 rink. (4 vnt.)",1.99,3.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddadacfe9.png
+maxima,"Svarmuo CORUBA*, 2 rūšių, 2 kg, 1 vnt.",3.99,7.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb3d7cdd.png
+maxima,"Masažinių kamuoliukų rinkinys CORUBA*, 1 rink. (2 vnt.)",1.99,3.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb3c040b.png
+maxima,"Jogos kilimėlis CORUBA*, 183 × 61 cm, 1 vnt.",8.99,15.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb3a8140.png
+maxima,"Pilateso ratas CORUBA*, ø 36 cm, 1 vnt.",2.99,4.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb419221.png
+maxima,"Šokdynė CORUBA*, 2,8 m, 1 vnt.",1.69,2.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb4630a2.png
+maxima,"Prisitraukimų skersinis*, 78 × 17,5 × 8,5 cm, 1 vnt.",13.99,22.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb44c692.png
+maxima,"Kūno analizės svarstyklės HENSKE*, 1 vnt.",16.99,29.99,,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695bddb4980ae.png
+maxima,Kojinėms ir apatiniams SPARTA*,,,-50%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc39bac7.png
+maxima,Pėdkelnėms ORI ir IMMAGINE*,,,-50%,,02.02,,https://offers.maxima.lt/media/MarketingOffer/695e6cc1320a6.png
+maxima,Automobilių priežiūros priemonėms TURTLE WAX*,,,-50%,,02.02,XX,https://offers.maxima.lt/media/MarketingOffer/695e6cc0c0633.png
+maxima,"Tulpių puokštė*, 35 cm, 1 puokštė – 25 vnt.",11.49,16.49,-30%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75ef73eaf.png
+maxima,"Alstremerijų puokštė*, 50 cm, 1 puokštė – 7 vnt.",4.69,6.49,-27%,,01.26,XX,https://offers.maxima.lt/media/MarketingOffer/696e75eeab9cc.png
+maxima,"Gvazdikų puokštė, 50 cm, 1 puokštė – 9 vnt.",4.59,5.99,-23%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ee34d0b.png
+maxima,"Gvazdikų puokštė, 50 cm, 1 puokštė – 9 vnt.",4.59,5.99,-23%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75eecf695.png
+maxima,"Tulpių puokštė, 35 cm, 1 puokštė – 15 vnt.",6.49,9.99,-35%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ee5bee0.png
+maxima,"Vazoninė gėlė orchidėja*, įvairių spalvų, 1 vaz.",9.99,13.99,-28%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75eef2086.png
+maxima,"Vazoninė gėlė azalija*, įvairių spalvų, 1 vaz.",3.99,5.99,-33%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75ef9be1d.png
+maxima,"Vazoninė gėlė sanpaulija*, įvairių spalvų, 1 vaz.",2.39,3.49,-31%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f0e421e.png
+maxima,"Vazoninė gėlė kalankė*, įvairių spalvų, 1 vaz.",1.99,2.99,-33%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f098f29.png
+maxima,"Perkant 2 ar daugiau sėjamųjų sėklų, taikoma 30 % nuolaida*",,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f116c24.png
+maxima,"TRĄŠOMS, ŽEMĖMS IR SUBSTRATAMS*",,,-30%,,01.26,,https://offers.maxima.lt/media/MarketingOffer/696e75f0beda6.png
