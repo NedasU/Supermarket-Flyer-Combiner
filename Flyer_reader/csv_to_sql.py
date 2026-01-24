@@ -48,7 +48,7 @@ def scrape_date_check(shop, cur):
         return last_scraped.date() < today
 
 def convert_date(d):
-    if not d or d.strip() or "." not in d == "":
+    if not d or d.strip() == "" or "." not in d:
         return None
     
     month, day = d.split(".")
