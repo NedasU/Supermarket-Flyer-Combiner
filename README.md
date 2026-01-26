@@ -1,7 +1,7 @@
 # Discount Combiner
 
 A web application that combines and compares discounts from multiple supermarkets (Lithuania).
-
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/1519852a-f1a0-4d1c-af39-ea4e27a5ea4f" />
 
 ## Tech Stack
 ### Frontend 
